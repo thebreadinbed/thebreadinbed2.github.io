@@ -3,7 +3,7 @@
     "path": "D:/EUR8467/Projet_ETE4/thebreadinbed2.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "2142181284",
     "contents": "",
     "dirty": false,
     "created": 1738812973708.0,
@@ -16,14 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "208:0",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1738812882,
+    "lastKnownWriteTime": 1738815252,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1738812882,
+    "last_content_update": 1738815250631,
     "read_only": false,
     "read_only_alternatives": []
 }
